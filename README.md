@@ -22,7 +22,8 @@ TCO 3 años y Precio Total por mes
 COSTO POR MES: $ 54.95 USD, aprox $ 1099 MXN
 TCO 3 años: $ 1978.20 USD, aprox $ 39564 MXN
 
-Tiempo sin disponibilidad a un año
-9.7 horas
+Tiempo sin disponibilidad a un año (525600 min/año):
+
+9.63 horas
 
 El evento fue interesante, dinámico y demandante; requisitando nuestras habilidades de trabajo en equipo y organización, así como recordar lo visto en el viaje
